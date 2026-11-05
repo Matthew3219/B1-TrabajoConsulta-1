@@ -71,13 +71,14 @@ Situación real: Un sistema de e-commerce necesita mostrar en el catálogo web s
 
 * **Soluciones:**
 
-Scala: productos.filter(p => p.categoria == "Tech" && p.precio > 50)
-![alt text](image.png)
-Java: productos.stream().filter(p -> p.getCategoria().equals("Tech") && p.getPrecio() > 50).toList()
+# Scala: 
+productos.filter(p => p.categoria == "Tech" && p.precio > 50)
+# Java: 
+productos.stream().filter(p -> p.getCategoria().equals("Tech") && p.getPrecio() > 50).toList()
+![alt text](image-2.png)
+# Python: 
+list(filter(lambda p: p.categoria == "Tech" and p.precio > 50, productos))
 ![alt text](image-1.png)
-Python: list(filter(lambda p: p.categoria == "Tech" and p.precio > 50, productos))
-
-
 
 * **3.2 Transformación (map)**
 
