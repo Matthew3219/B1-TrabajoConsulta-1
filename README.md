@@ -173,7 +173,7 @@ Cada captura muestra la salida completa de los cuatro problemas (3.1 a 3.4) en u
 
 | Scala | Java | Python |
 |---|---|---|
-| ![Ejecución en Scala](img/scala.png) | ![Ejecución en Java](img/java.png) | ![Ejecución en Python](img/python.png) |
+| ![Ejecución en Scala](img/Scala.png) | ![Ejecución en Java](img/Java.png) | ![Ejecución en Python](img/Python.png) |
 
 [↑ Volver al índice](#contenido)
 
